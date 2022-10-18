@@ -26,11 +26,11 @@ A gesture password component for React Native.
 
 
 ## Install
-    npm install --save react-native-gesture-login
-    npm install --save prop-types
+    npm install --save acaland/react-native-gesture-login
+    
     or
-    yarn add react-native-gesture-login
-    yarn add prop-types
+    yarn add acaland/react-native-gesture-login
+    
 
 
 ## Properties
