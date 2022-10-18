@@ -65,7 +65,7 @@ linedCenterStyle | ViewPropTypes.style | No | style of lined circle's center
 
 
 ## Demo
-[GestureDemo](https://github.com/aixiaobenaixiaoben/react-native-gesture-login/blob/master/GestureDemo.js)
+[GestureDemo](https://github.com/acaland/react-native-gesture-login/blob/master/example/App.js)
 
 
 ## Contributing
